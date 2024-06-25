@@ -4,7 +4,7 @@
     <header>
       <nav>
         <ul style="color: white; justify-content: center;">
-          <li @click="setView('todos')">Todos</li>
+          <li @click="setView('todos')">Todoswiwiwi</li>
           <li @click="setView('posts')">Posts</li>
         </ul>
       </nav>
